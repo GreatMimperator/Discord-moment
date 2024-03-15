@@ -33,11 +33,11 @@ Video emoji conversion (`gif` -> `webm`) is also available.
 
 ![изображение](https://github.com/GreatMimperator/Discord-moment/assets/93261336/6ef3344e-ef97-4c7a-a9f4-183d2931ddd3)
 
-7. Replace the file name in `har_of_downloaded_emojis` in the `[Path]` section of the `config/constants.ini` file
+6. Replace the file name in `har_of_downloaded_emojis` in the `[Path]` section of the `config/constants.ini` file
 
 ![изображение](https://github.com/GreatMimperator/Discord-moment/assets/93261336/2513cf17-cbd3-4fa4-af87-658e3b64e007)
 
-8. Perform the steps below to get the result
+7. Perform the steps below to get the result
 
 To load an emoji (does not load an already loaded emoji): 
 ```shell
