@@ -1,4 +1,4 @@
-# Discord to Telegram emojis converter
+# Конвертер эмодзи Discord в эмодзи Telegram
 Приводит эмодзи дискорда к формату телеграма (`webp`)  
 Доступно также преобразование видео-эмодзи (`gif` -> `webm`)
 
