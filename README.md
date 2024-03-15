@@ -1,7 +1,8 @@
 # Discord to Telegram emojis converter
-[![ru](https://img.shields.io/badge/lang-ru-blue.svg)](https://github.com/GreatMimperator/Discord-moment/blob/main/README-RU.md)
-[![ru](https://img.shields.io/badge/lang-ru-white.svg)](https://github.com/GreatMimperator/Discord-moment/blob/main/README-RU.md)
-[![ru](https://img.shields.io/badge/lang-ru-red.svg)](https://github.com/GreatMimperator/Discord-moment/blob/main/README-RU.md)
+[![ru](https://img.shields.io/badge/lang-ru-FFFFFF.svg)](https://github.com/GreatMimperator/Discord-moment/blob/main/README-RU.md)  
+[![ru](https://img.shields.io/badge/lang-ru-1C3578.svg)](https://github.com/GreatMimperator/Discord-moment/blob/main/README-RU.md)  
+[![ru](https://img.shields.io/badge/lang-ru-E4181C.svg)](https://github.com/GreatMimperator/Discord-moment/blob/main/README-RU.md)  
+
 Converts Discord emoji to Telegram format (`webp`)  
 Video emoji conversion (`gif` -> `webm`) is also available.
 
