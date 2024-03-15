@@ -58,6 +58,7 @@ python changed_gif_timing_check.py
 To change folder paths and conversion parameters - ``/config/constants``.
 
 # Unresolved issues:
+- I couldn't find an endpoint that gives an answer in the form of a list of emojis belonging to the server set
 - When converting gif emoji format to telegram format, ffmpeg outputs logs to standard output, suppressing it fails
 - The slowdown method does not work as expected - ffmpeg in some cases says that the output file has one duration, but in reality it has a completely different one. You can investigate this phenomenon by analyzing the output of `changed_gif_timing_check.py` and `gifs_for_telegram_resizer.py`
 - Downloads and conversions are performed sequentially, not in parallel
